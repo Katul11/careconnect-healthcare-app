@@ -5,7 +5,6 @@ CareConnect is a mobile UI/UX design project that helps patients find doctors an
 
 ## Tools Used
 - Figma
-- GitHub
 
 ## Key Features
 - Doctor search and specialty filters
